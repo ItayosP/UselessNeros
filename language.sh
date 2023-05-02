@@ -1,6 +1,7 @@
 #!/bin/bash
 
-
+figlet -c "Neros" | lolcat
+echo "                            By: Itayos   Version: 1.0" | lolcat
 
 echo -n "Enter the name of a country: "
 read COUNTRY
