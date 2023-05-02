@@ -1,4 +1,6 @@
-  GNU nano 6.2                                                                            todo_list.sh                                                                                      #!/bin/bash
+#!/bin/bash
+
+
 
 # Declare an empty array to store the todo items
 declare -a todo_list
