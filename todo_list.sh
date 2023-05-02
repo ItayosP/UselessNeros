@@ -1,6 +1,7 @@
 #!/bin/bash
 
-
+figlet -c "Neros" | lolcat
+echo "                            By: Itayos   Version: 1.0" | lolcat
 
 # Declare an empty array to store the todo items
 declare -a todo_list
