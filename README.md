@@ -18,5 +18,10 @@ chmod +x *
 ```
 
 ```
+./setup.sh
+```
+Enter your password
+
+```
 ./file_name.sh
 ```
